@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Selected = (props) => {
+    // destructuring method
     const {img, name, tourDay, ourPackage, tripCost}=props.cart;
     return (
         <div className="mt-2">

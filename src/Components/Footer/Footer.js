@@ -1,5 +1,5 @@
 import React from 'react';
-
+// making footer for hooney moon app
 const Footer = () => {
     return (
         <div className="header-bg mt-3 py-2">

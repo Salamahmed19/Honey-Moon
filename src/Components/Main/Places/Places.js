@@ -1,6 +1,7 @@
 import React from 'react';
 import "./Places.css"
 const Places = (props) => {
+    // destructuring
     const {img, name, desc, tourDay, ourPackage, tripCost}=props.place;
     return (
         <div className="col-md-4 shadow-lg rounded g-3">

@@ -2,6 +2,7 @@ import React from 'react';
 
 const Cart = (props) => {
     const {cart}=props;
+    // cart calculation
     let totalCost = 0;
     let totalDay = 0;
     let name = [];

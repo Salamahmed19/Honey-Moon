@@ -1,5 +1,6 @@
 import React from 'react';
 import "./Header.css"
+// here is header compo for header elecment
 const Header = () => {
     return (
         <div className="header-bg p-2 text-center border border-dark rounded mt-2">
